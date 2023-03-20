@@ -1,0 +1,412 @@
+.main {
+    background-color: black;
+    /* text-align: right; */
+    color: rgb(85, 105, 122);
+    height: 60px;
+    font-size: 15px;
+    
+}
+
+.span {
+    position: relative;
+    /* top: 0px; */
+    bottom: 20%;
+    left: 900px;
+    background-color: greenyellow;
+    text-align: right;
+    
+
+}
+
+img {
+    padding: 2px 2px;
+    margin: 4px 4px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+    /* right: 400px; */
+    display: flex;
+    display: inline;
+
+
+}
+
+/* .phone{
+    position: relative;
+    top: 20px;
+    right: 190px;
+   float: right;
+   height: 25px;
+   margin: auto 20px auto 50px;
+   padding: 0px 300px  100px;
+   
+   
+} */
+/* .span1{
+    position: relative;
+    right: 95px;
+   margin: auto 10px auto 460px; 
+    text-align: right;
+    
+} */
+.nav {
+    background-color: white;
+    height: 120px;
+    /* border: 2px solid black; */
+    word-spacing: 2em;
+}
+
+.pana {
+    display: inline;
+    font-size: 20px;
+}
+
+li {
+    display: inline;
+    color: black;
+
+
+}
+
+.port {
+    text-decoration: underline 5px solid yellow;
+
+    width: 20px;
+}
+
+.h1 {
+    text-align: center;
+    padding-top: 60px;
+    font-size: 90px;
+}
+
+.para {
+    text-align: center;
+}
+
+.green {
+    background-color: rgb(111, 180, 7);
+    color: white;
+}
+
+#btn {
+    text-align: center;
+
+}
+
+.read {
+    border-radius: 20px;
+}
+
+#dots {
+    text-align: center;
+
+
+}
+
+#h1 {
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+
+#ad {
+    color: rgb(6, 158, 6);
+
+}
+
+.inno {
+    padding: 15px;
+    /* border: 2px solid black; */
+    width: 18%;
+    text-align: center;
+    float: left;
+
+
+
+}
+
+
+
+.thumb {
+    padding: 15px;
+    /* border: 2px solid black; */
+    width: 18%;
+    text-align: center;
+    float: left;
+
+
+}
+
+.clock {
+    padding: 15px;
+    /* border: 2px solid black; */
+    width: 18%;
+    text-align: center;
+    float: left;
+    padding: 15px;
+
+
+}
+
+.happy {
+    padding: 15px;
+    /* border: 2px solid black; */
+    width: 18%;
+    text-align: center;
+    float: left;
+
+
+}
+
+.supp {
+    /* border: 2px solid black; */
+    width: 18%;
+    text-align: center;
+    float: left;
+
+
+
+}
+
+#pr {
+    /* border: 2px solid black; */
+    height: 500px;
+    text-align: left;
+    width: 700px;
+    padding: 30px;
+    
+
+}
+
+.h {
+    text-align: center;
+    color: black;
+    font-size: 60px;
+}
+
+.about {
+
+    /* border: 2px solid black; */
+    height: 400px;
+
+}
+
+#com{
+    /* border: 2px solid red; */
+    width: 100px;
+    /* display: inline; */
+    padding: 10px  800px;
+    height: 400px;
+}
+#ser{
+    /* border: 2px solid blue; */
+    background-color: bisque;
+
+}
+.star{
+    /* border: 2px solid red; */
+    width: 200px;
+    text-align: center;
+    float: left;
+    height: 300px;
+    padding: 50px;
+    background-color: bisque;
+    
+}
+.word{
+ text-align: center;
+    word-spacing: 2em;
+    color: black;
+    font-size: 25px;
+}
+
+.last{
+    background-color: black;
+    padding: 20px;
+    
+}
+/* second page */
+
+#h{
+    text-align: center;
+
+}
+.p2{
+    text-align: center;
+}
+#page2{ background-color: yellowgreen;
+    /* border: 2px solid black; */
+    width: 60%;
+    
+}
+.fimg{
+    /* border: 2px solid blue; */
+    width: 120px;
+    text-align: center;
+    float: right;padding: 0px;
+
+
+}
+.sec2{
+    width: 59%;
+    text-align: center;
+    /* border: 1px solid black; */
+    
+    
+}
+.people{
+    text-align: center;
+    position: relative;
+    top: 25px;
+    left: 240px;
+}
+.pop{
+    position: relative;
+    top: 55px;
+}
+
+
+
+
+.table{
+    width: 100%;
+    height: 400px;
+}
+#btn{
+    border-radius: 6px;
+    background-color: orange;
+    font-size: 20px;
+    color: aliceblue;
+}
+input{
+    font-size: 18px;
+    border-radius: 4px;
+}
+.sec3{
+    /* border: 2px solid orange; */
+    width: 59%;
+    background-color:rgb(100, 159, 12);
+}
+.h3{
+   text-align: center; 
+   /* border: 2px solid red; */
+}
+.gr{
+    text-align: center;
+    color: azure;
+    font-size: 20px;
+}
+#last{
+    /* border: 2px solid black; */
+    width: 59%;
+    text-align: center;
+}
+
+.tb{
+font-size: 20px;
+color: aliceblue;
+}
+
+
+.cloud{
+    /* border: 2px solid blue; */
+    width: 59%;
+    text-align: left;
+    background-color: greenyellow;
+    height: 500px;
+    
+
+}
+#line{
+    /* border: 2px solid black; */
+    width: 20%;
+    position: relative;
+    left: 40%;
+    bottom: 200px;
+    
+    /* top: 90px; */
+   
+   
+}
+#lemon{
+    /* border: 2px solid black; */
+    width: 20%;
+    position: relative;
+    left: 70%;
+    bottom: 400px;
+}
+
+
+
+
+
+
+
+/* .one{
+    border: 2px solid red;
+    width: 20%;
+    float: right;
+    
+} */
+.zero{
+    /* border: 2px solid grey; */
+    width: 30%;
+    
+}
+/* .h3{
+    border: 2px solid black;
+
+} */
+
+
+/* 3 page */
+.box1{
+    position: relative;
+    border: 4px solid grey;
+    width: 400px;
+    height: 450px;
+    
+    top: 80px;
+    font-size: 40px;
+    background-color: palegoldenrod;
+    border-radius: 15px;
+}
+.box2{
+    position: relative;
+    border: 4px solid grey;
+    width: 400px;
+    height: 450px;
+    left: 450px;
+    bottom: 110%;
+    /* top: 10px; */
+    font-size: 40px;
+    background-color: rgb(232, 249, 232);
+    border-radius: 15px;
+    
+}
+
+.box3{
+    position: relative;
+    border: 4px solid rgb(68, 63, 63);
+    width: 400px;
+    height: 450px;
+    left:450px;
+    bottom: 110%;
+    font-size: 40px;
+    background-color: rgb(181, 200, 208);
+    border-radius: 15px;
+    
+}
+.saf{
+    text-align: center;
+}
+.abc{
+width: 60%;
+margin-left: 50px;
+}
+   
+    
+
+
+
